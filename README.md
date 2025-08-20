@@ -2,25 +2,24 @@
   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 <h1 align="center"><b>Hi , I'm Steven Herrera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-I am an undergraduate Software Engineering student. Javascript, HTML, Css and PHP are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div style="flex: 1;">
+<img align="right" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200"/>
+<p>
+  I am an undergraduate Software Engineering student.
+  Javascript, HTML, CSS and PHP are the programming languages I am good at.
+  I love to learn and build something new, productive, innovative and creative.
+</p>
+<div>
   
-**As a full stack developer, I am interested in web development, integrating AI into web applications, and user experience design. I also have a keen interest in creating intuitive and dynamic user interfaces.**
-
-- 👨🏻‍💻 I’m looking forward to collaborate on open source projects.
-- ✔ Feel free to ask me anything related to software engineering or web development—I'm always happy to help if I can! 😉<br>
-- Outside of tech, 📖 I enjoy reading, 🍔 trying new foods, 🎵 listening to music, and 🌴 exploring the outdoors.
-- 📫 Reach out to me at: <a href="mailto:stevenherrera2305@gmail.com">stevenherrera2305@gmail.com</a>
-
-  </div>
-  <div style="margin-left: 32px;">
-    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-  </div>
+  **As a full stack developer, I am interested in web development, integrating AI into web applications, and user experience design. I also have a keen interest in creating intuitive and dynamic user interfaces.**
+  
+  - 👨🏻‍💻 I’m looking forward to collaborate on open source projects.
+  - ✔ Feel free to ask me anything related to software engineering or web development—I'm always happy to help if I can! 😉<br>
+  - Outside of tech, 📖 I enjoy reading, 🍔 trying new foods, 🎵 listening to music, and 🌴 exploring the outdoors.
+  - 📫 Reach out to me at: <a href="mailto:stevenherrera2305@gmail.com">stevenherrera2305@gmail.com</a>
 </div>
+<br>
 
-- **Full Stack Development**:
+**Full Stack Development**:
 
   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

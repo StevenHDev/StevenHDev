@@ -3,9 +3,9 @@
 </div>
 <h1 align="center"><b>Hi , I'm Steven Herrera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200"/>
-</div>
+<br>
+
+<img align="right" width="150" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" style="margin-left: 15px; margin-bottom: 15px;"/>
 
 <p>
   I am an undergraduate Software Engineering student.
@@ -15,8 +15,13 @@
 <div>
   
   **As a full stack developer, I am interested in web development, integrating AI into web applications, and user experience design. I also have a keen interest in creating intuitive and dynamic user interfaces.**
+</div>
+
+<br clear="right"/>
+
+<div>
   
-  - 👨🏻‍💻 I’m looking forward to collaborate on open source projects.
+  - 👨🏻‍💻 I'm looking forward to collaborate on open source projects.
   - ✔ Feel free to ask me anything related to software engineering or web development—I'm always happy to help if I can! 😉<br>
   - Outside of tech, 📖 I enjoy reading, 🍔 trying new foods, 🎵 listening to music, and 🌴 exploring the outdoors.
   - 📫 Reach out to me at: <a href="mailto:stevenherrera2305@gmail.com">stevenherrera2305@gmail.com</a>
